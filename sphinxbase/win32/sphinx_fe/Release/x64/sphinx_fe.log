@@ -1,0 +1,5 @@
+﻿  sphinx_fe.c
+C:\Users\tanwe\OneDrive\Desktop\Aurora_Studio\Aurora_Engine\Sphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(377,56): warning C4267: 'function': conversion from 'size_t' to 'int32', possible loss of data
+C:\Users\tanwe\OneDrive\Desktop\Aurora_Studio\Aurora_Engine\Sphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(383,23): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+C:\Users\tanwe\OneDrive\Desktop\Aurora_Studio\Aurora_Engine\Sphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(423,60): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  sphinx_fe.vcxproj -> C:\Users\tanwe\OneDrive\Desktop\Aurora_Studio\Aurora_Engine\Sphinx\sphinxbase\bin\Release\x64\sphinx_fe.exe
